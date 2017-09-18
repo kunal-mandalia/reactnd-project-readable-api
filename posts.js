@@ -5,22 +5,22 @@ let db = {}
 const defaultData = {
   "8xf0y6ziyjabvozdd253nd": {
     id: '8xf0y6ziyjabvozdd253nd',
-    timestamp: 1467166872634,
-    title: 'Udacity is the best place to learn React',
-    body: 'Everyone says so after all.',
-    author: 'thingtwo',
+    timestamp: 1502763915440,
+    title: 'Testing connected components',
+    body: `I've tried separating my component from connect via exporting the class and importing into tests via destructing but jest errors saying store is required`,
+    author: 'whitehat',
     category: 'react',
     voteScore: 6,
     deleted: false 
   },
   "6ni6ok3ym7mf1p33lnez": {
     id: '6ni6ok3ym7mf1p33lnez',
-    timestamp: 1468479767190,
-    title: 'Learn Redux in 10 minutes!',
-    body: 'Just kidding. It takes more than 10 minutes to learn technology.',
-    author: 'thingone',
-    category: 'redux',
-    voteScore: -5,
+    timestamp: 1500763915440,
+    title: `How long are you spending on the nano degree each week?`,
+    body: `I must be spendiing a minimum of 15hrs/week (mainly because of redux) so my girlfriend isn't happy`,
+    author: 'conscientiouswombat',
+    category: 'udacity',
+    voteScore: 2,
     deleted: false
   }
 }

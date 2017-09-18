@@ -6,20 +6,40 @@ const defaultData = {
   "894tuq4ut84ut8v4t8wun89g": {
     id: '894tuq4ut84ut8v4t8wun89g',
     parentId: "8xf0y6ziyjabvozdd253nd",
-    timestamp: 1468166872634,
-    body: 'Hi there! I am a COMMENT.',
-    author: 'thingtwo',
-    voteScore: 6,
+    timestamp: 1504763915440,
+    body: `You could wrap your component in a Provider and pass in a mock store (checkout redux-mock-store)`,
+    author: 'ninja.js',
+    voteScore: 12,
     deleted: false,
     parentDeleted: false 
   },
   "8tu4bsun805n8un48ve89": {
     id: '8tu4bsun805n8un48ve89',
     parentId: "8xf0y6ziyjabvozdd253nd",
-    timestamp: 1469479767190,
-    body: 'Comments. Are. Cool.',
-    author: 'thingone',
-    voteScore: -5,
+    timestamp: 1505363915440,
+    body: `Thanks @ninja.js I gave that a go. It works but I can't access the state of my component, I've only got access to the Provider connected state if that makes sense`,
+    author: 'whitehat',
+    voteScore: 5,
+    deleted: false,
+    parentDeleted: false
+  },
+  "8tu4bsun805n8un48ve90": {
+    id: '8tu4bsun805n8un48ve90',
+    parentId: "6ni6ok3ym7mf1p33lnez",
+    timestamp: 1502763915440,
+    body: `Dump her man`,
+    author: 'creativeg',
+    voteScore: -4,
+    deleted: false,
+    parentDeleted: false
+  },
+  "8tu4bsun805n8un48ve91": {
+    id: '8tu4bsun805n8un48ve91',
+    parentId: "6ni6ok3ym7mf1p33lnez",
+    timestamp: 1505763915440,
+    body: `Something like 8-12hrs/week but it varies a lot between modules. I spent much longer on Readable than Myreads for example.`,
+    author: 'reasonableperson',
+    voteScore: 3,
     deleted: false,
     parentDeleted: false
   }
