@@ -6,7 +6,7 @@ const defaultData = {
   "894tuq4ut84ut8v4t8wun89g": {
     id: '894tuq4ut84ut8v4t8wun89g',
     parentId: "8xf0y6ziyjabvozdd253nd",
-    timestamp: 1504763915440,
+    timestamp: 1505363915440,
     body: `You could wrap your component in a Provider and pass in a mock store (checkout redux-mock-store)`,
     author: 'ninja.js',
     voteScore: 12,
@@ -16,7 +16,7 @@ const defaultData = {
   "8tu4bsun805n8un48ve89": {
     id: '8tu4bsun805n8un48ve89',
     parentId: "8xf0y6ziyjabvozdd253nd",
-    timestamp: 1505363915440,
+    timestamp: 1504763915440,
     body: `Thanks @ninja.js I gave that a go. It works but I can't access the state of my component, I've only got access to the Provider connected state if that makes sense`,
     author: 'whitehat',
     voteScore: 5,
