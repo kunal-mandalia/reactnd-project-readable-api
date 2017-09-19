@@ -27,7 +27,7 @@ const defaultData = {
     id: '8tu4bsun805n8un48ve90',
     parentId: "6ni6ok3ym7mf1p33lnez",
     timestamp: 1502763915440,
-    body: `Dump her man`,
+    body: `I've been writing in assembly for the past 5 years so this is pretty easy for me.`,
     author: 'creativeg',
     voteScore: -4,
     deleted: false,
